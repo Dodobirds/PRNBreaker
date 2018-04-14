@@ -178,7 +178,4 @@ def testMulti(l):
 results = testMulti(200)
 print str(results[0]) + " out of " + str(results[1]) + " trials correct"
 
-'''
-I think you can the process of my brain melting throughout the night
 
-'''
